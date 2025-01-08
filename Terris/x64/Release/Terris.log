@@ -1,0 +1,115 @@
+﻿  Button.cpp
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+  ChildrenList.cpp
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+  MyData.cpp
+  GameObject.cpp
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\GameObject.cpp(1009,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1010,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1016,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1017,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1018,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1019,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1042,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1043,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1074,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1075,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1080,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1081,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1082,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1083,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\GameObject.cpp(1109,7): warning C4101: “point”: 未引用的局部变量
+E:\VsProject\Tetris_工程\GameObject.cpp(1134,7): warning C4101: “point”: 未引用的局部变量
+E:\VsProject\Tetris_工程\GameObject.cpp(1158,7): warning C4101: “point”: 未引用的局部变量
+  main.cpp
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\StartScene.h(10,14): warning C4099: “Tetris”: 类型名称以前使用“struct”现在使用的是“class”
+E:\VsProject\Tetris_工程\StartScene.h(10,14): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+E:\VsProject\Tetris_工程\test.hpp(331,9): warning C4005: “UNIT_LENGTH”: 宏重定义
+  paint.cpp
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\StartScene.h(10,14): warning C4099: “Tetris”: 类型名称以前使用“struct”现在使用的是“class”
+E:\VsProject\Tetris_工程\StartScene.h(10,14): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\paint.cpp(78,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(77,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(95,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(95,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(94,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(94,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(100,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(100,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(106,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(106,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(105,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(105,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(111,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(111,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(157,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(355,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(356,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(388,15): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(388,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(388,31): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(388,31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(389,23): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(389,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(389,45): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(389,45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(390,23): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(390,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(390,54): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(390,54): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(391,15): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(391,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(391,40): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(391,40): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(399,29): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(399,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(399,45): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(399,45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(402,29): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(402,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(402,60): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(402,60): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(412,29): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(412,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(412,59): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(412,59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(413,15): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(413,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(413,45): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\VsProject\Tetris_工程\paint.cpp(413,45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(431,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(432,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(467,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\paint.cpp(468,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ReadLineData.cpp
+  StartScene.cpp
+E:\VsProject\Tetris_工程\StartScene.h(10,14): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4099: “Tetris”: 类型名称以前使用“class”现在使用的是“struct”
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\GameObject.h(31,8): warning C4099: “Tetris”: 类型名称以前使用“class”现在使用的是“struct”
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+E:\VsProject\Tetris_工程\StartScene.cpp(357,26): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  ObjectBase.cpp
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+  toString.cpp
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+E:\VsProject\Tetris_工程\toString.cpp(14,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\toString.cpp(27,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VsProject\Tetris_工程\toString.cpp(31,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  VARIABLE_NAME_DEFINE.cpp
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+  Widget.cpp
+E:\VsProject\Tetris_工程\ChildrenList.h(2,14): warning C4091: “extern ”: 没有声明变量时忽略“ObjectBase”的左侧
+E:\VsProject\Tetris_工程\CONSTANT_NAME_DEFINE.h(14,15): warning C4091: “extern ”: 没有声明变量时忽略“Tetris”的左侧
+  参考.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 355 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Terris.vcxproj -> E:\VsProject\Tetris_工程\x64\Release\Terris.exe
